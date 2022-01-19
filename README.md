@@ -1,2 +1,2 @@
 # Desafio_Numpy
- Desafio Numpy do módulo IV - Programação I
+ Entrega do Desafio Numpy do módulo IV - Programação I proposto pelo Professor Pedro Gengo da Let's Code
